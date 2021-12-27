@@ -1,0 +1,23 @@
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\bin\Debug\Bai1.exe.config
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\bin\Debug\Bai1.exe
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\bin\Debug\Bai1.pdb
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.exe
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.pdb
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.frmLinkedList.resources
+F:\CAU TRUC DU LIEU VA GIAI THUAT\DO AN CUOI KI CTDL\bài 1c#\Bai1\Bai1\obj\Debug\Bai1.frmOtherOperations.resources
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\bin\Debug\Bai1.exe
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\bin\Debug\Bai1.pdb
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.frmLinkedList.resources
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.frmOtherOperations.resources
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.exe
+C:\Users\lqtru\Downloads\New folder\Bai1\Bai1\obj\Debug\Bai1.pdb
